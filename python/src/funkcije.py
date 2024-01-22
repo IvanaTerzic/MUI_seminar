@@ -2,6 +2,8 @@ import sys
 sys.path.append('../src')
 from modules import *
 
+
+
 def calculate_fingerprint(smiles):
     """
     izračunava otisak (fingerprint) molekule iz SMILES zapisa

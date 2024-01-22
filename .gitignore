@@ -123,3 +123,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 env/
+
+# datoteke za ignorirati
+R/
+Kristina_2D deskriptori_.ipynb
+Kristina_fingerprints.ipynb
